@@ -10,5 +10,9 @@ When you clone a repository, you essentially create a local copy of the entire r
 # what is git add?
 git add is a Git command used to add changes in the working directory to the staging area. 
 In Git, there are three main areas where changes to files are tracked.
+## what is git commit?
+git commit is a Git command used to record changes to the repository. 
+When you make changes to files in your working directory and you are satisfied with those changes, you use git commit to save those changes to the Git repository.
+
 
 
