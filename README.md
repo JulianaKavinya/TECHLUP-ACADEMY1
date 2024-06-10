@@ -15,4 +15,6 @@ git commit is a Git command used to record changes to the repository.
 When you make changes to files in your working directory and you are satisfied with those changes, you use git commit to save those changes to the Git repository.
 
 
-
+## what is git push?
+git push is a Git command used to upload local repository content to a remote repository.
+When you make changes to your local repository and want to share those changes with others or synchronize them with a remote repository like on GitHub.
